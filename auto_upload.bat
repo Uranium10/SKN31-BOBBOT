@@ -1,5 +1,4 @@
 git add .
-set comment="auto uploaded"
-git commit -m "%comment%"
+git commit -m "by auto uploader"
 git pull --rebase
 git push origin main
